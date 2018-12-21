@@ -63,115 +63,115 @@ https://university.mongodb.com/courses/M220P/about -- MongoDB for Python Develop
 
 ## Schedule
 
-### Week 1
+### Week 1 (workload 6-9 hr/day)
 1. Watch 1 to 6 videos from "Introduction to Computer Science and Programming in Python"
 2. Read 1 to 5 Chapter from Book "Introduction to Computation and Programming Using Python with application to understanding Data 2nd edition by John V. Guttag"
 3. Work on Problem set 0, 1 and 2 from "Introduction to Computer Science and Programming in Python"
 
-### Week 2
+### Week 2 (workload 6-9 hr/day)
 1. Watch 7 to 12 videos from "Introduction to Computer Science and Programming in Python"
 2. Read 6 to 10 chapter from Book "Introduction to Computation and Programming Using Python with application to understanding Data 2nd edition by John V. Guttag"
 3. Work on Problem set 3, 4 and 5 from "Introduction to Computer Science and Programming in Python"
 
-### Week 3
+### Week 3 (workload 6-9 hr/day)
 1. Finish Git, HTML, CSS, Flask, SQL, ORMs, APIs from "CS50's Web Programming with Python and JavaScript"
 2. Finish "Basic MongoDB"
 3. Finish "MongoDB for Python Developer"
 
-### Week 4
+### Week 4 (workload 6-9 hr/day)
 1. Finish JavaScript, Front Ends from "CS50's Web Programming with Python and JavaScript"
 2. Finish "MongoDB for JavaScript Developer"
 
-### Week 5
+### Week 5 (workload 6-9 hr/day)
 1. Finish Django, Testing, CI/CD from "CS50's Web Programming with Python and JavaScript"
 
-### Week 6
+### Week 6 (workload 6-9 hr/day)
 1. Finish GitHub, Scalability and Security from "CS50's Web Programming with Python and JavaScript"
 
 #### After This Point you can start Applying for Python Developer Jobs
 
-### Week 7
+### Week 7 (workload 6-9 hr/day)
 1. Finish Introduction to Java, Data Handling and Functions from "Java, J2EE & SOA Certification Training"
 2. Finish Course Introduction, Setup and First Steps, Variables, Datatypes and Operators, Java Tutorial and Control Flow from "Java Programming Masterclass for Software Developers"
 
-### Week 8
+### Week 8 (workload 6-9 hr/day)
 1. Finish Object Oriented Programming in Java, Packages and Multi Threading from "Java, J2EE & SOA Certification Training"
 2. Finish OOP Part 1, OOP Part 2, Arrays, Inner and Abstract Classes & Interfaces from "Java Programming Masterclass for Software Developers"
 
-### Week 9
+### Week 9 (workload 9-12 hr/day)
 1. Finish Java Collections, XML from "Java, J2EE & SOA Certification Training"
 2. Finish Java Generics, Naming Conventions, Java Collections, Basic Input & Output and Concurrency in Java from "Java Programming Masterclass for Software Developers"
 3. Finish week 1 and 2 from "Algorithm 1"
 4. Finish week 1 and 2 from "Database"
 
-### Week 10
+### Week 10 (workload 9-12 hr/day)
 1. Finish JDBC and Servlets from "Java, J2EE & SOA Certification Training"
 2. Finish Databases from "Java Programming Masterclass for Software Developers"
 3. Finish week 3 and 4 from "Algorithm 1"
 4. Finish week 3 and 4 from "Database"
 5. Finish "MongoDB for Java Developer"
 
-### Week 11
+### Week 11 (workload 9-12 hr/day)
 1. Finish JSP and Hibernet from "Java, J2EE & SOA Certification Training"
 2. Finish JavaFX from "Java Programming Masterclass for Software Developers"
 3. Finish week 5 and 6 from "Algorithm 1"
 4. Finish week 5 and 6 from "Database"
 
-### Week 12
+### Week 12 (workload 9-12 hr/day)
 1. Finish Spring, Ajax and Design Patterns from "Java, J2EE & SOA Certification Training"
 2. Finish Lambda Expressions, Regular Expressions, Debugging and Unit Testing from "Java Programming Masterclass for Software Developers"
 3. Finish week 1 and 2 from "Algorithm 2"
 4. Finish week 7 and 8 from "Database"
 
-### Week 13
+### Week 13 (workload 9-12 hr/day)
 1. Finish SOA and Web Services from "Java, J2EE & SOA Certification Training"
 2. Finish Course "Java Programming Masterclass for Software Developers"
 3. Finish week 3 and 4 from "Algorithm 2"
 4. Finish week 9 and 10 from "Database"
 
-### Week 14
+### Week 14 (workload 9-12 hr/day)
 1. Work on Final Project from "Java, J2EE & SOA Certification Training"
 2. Finish week 5 and 6 from "Algorithm 2"
 
 #### After this Point you can start Applying for Java Developer Jobs
 
-### Week 15
+### Week 15 (workload 6-9 hr/day)
 1. Finish Overview, JavaScript, ES6, React, Props, State and React Native from "CS50's Mobile App Development with React Native"
 
-### Week 16
+### Week 16 (workload 6-9 hr/day)
 1. Finish Lists, User Input, Debugging and Navigation from "CS50's Mobile App Development with React Native"
 
-### Week 17
+### Week 17 (workload 6-9 hr/day)
 1. Finish Data, Expo Components, Redux, Async Redux, Tools, Performance, Deploying and Testing from "CS50's Mobile App Development with React Native"
 
-### Week 18
+### Week 18 (workload 6-9 hr/day)
 1. Finish Final Project from "CS50's Mobile App Development with React Native"
 
-### Week 19
+### Week 19 (workload 6-9 hr/day)
 1. Finish first 16 modules from "Angular.js"
 
-### Week 20
+### Week 20 (workload 6-9 hr/day)
 2. Finish Course "Angular.js"
 
-### Week 21
+### Week 21 (workload 6-9 hr/day)
 1. Finish Upto Testing Your Applications from "Node.js"
 
-### Week 22
+### Week 22 (workload 6-9 hr/day)
 1. Finish Course "Node.js"
 
-### Week 23
+### Week 23 (workload 6-9 hr/day)
 1. Work on Project that use Python development tools with MySQL.
 
-### Week 24
+### Week 24 (workload 6-9 hr/day)
 1. Work on Project that use Java developement tools with MongoDB
 
-### Week 25
+### Week 25 (workload 6-9 hr/day)
 1. Work on Project that use Node.js with MongoDB
 2. Host your website on AWS or Azure (optional) for that watch following videos </br>
 https://www.youtube.com/watch?v=ngK97cSXWoM </br>
 https://www.youtube.com/watch?v=TwQhmIFeiYQ 
 
-### Week 26
+### Week 26 (workload 6-9 hr/day)
 1. Work on Project that use Angular.js with MongoDB
 2. Host your website on AWS or Azure (optional)
 
