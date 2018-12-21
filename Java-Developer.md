@@ -50,13 +50,13 @@ https://www.udemy.com/java-the-complete-java-developer-course/
 https://www.coursera.org/learn/algorithms-part1 </br>
 https://www.coursera.org/learn/algorithms-part2 </br>
 
-9. Database <optional) </br>
+9. Database (optional) </br>
 https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about
 
 ## Some advance Material
 
 9. MongoDB (optional) </br>
-https://university.mongodb.com/courses/M001/about </br>
-https://university.mongodb.com/courses/M220J/about </br>
-https://university.mongodb.com/courses/M220JS/about </br>
-https://university.mongodb.com/courses/M220P/about
+https://university.mongodb.com/courses/M001/about -- Basic MongoDB </br>
+https://university.mongodb.com/courses/M220J/about -- MongoDB for Java Developer </br>
+https://university.mongodb.com/courses/M220JS/about -- MongoDB for JavaScript Developer </br>
+https://university.mongodb.com/courses/M220P/about -- MongoDB for Python Developer
