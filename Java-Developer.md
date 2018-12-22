@@ -176,3 +176,7 @@ https://www.youtube.com/watch?v=TwQhmIFeiYQ
 2. Host your website on AWS or Azure (optional)
 
 #### After this Point you can start apply for Full Stack Web Developer using Java and Python
+
+## What Next?
+
+After this you can learn other databases, other Python and Java Frameworks etc.
