@@ -9,7 +9,6 @@
 6. Data Science
 7. Machine Learning
 8. Deep Learning
-9. 
 
 ## Essencial Material
 1. Introduction to Computer Science and Programming in Python </br>
