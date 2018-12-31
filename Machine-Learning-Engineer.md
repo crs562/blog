@@ -48,3 +48,75 @@ https://www.amazon.com/exec/obidos/ASIN/0262529629/ref=nosim/mitopencourse-20?li
 3. Solve Problem 5 from "Introduction to Computer Science and Programming in Python"
 #### Day 6 and 7
 1. Finish this week stuff if you left with any
+
+### Week 2
+#### Day 1
+1. Read Ch 13, 14, and 15 from Book "Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition"
+2. Problem 1 from "Introduction to Computational Thinking and Data Science"
+#### Day 2
+1. Read Ch 16, 17, and 18 from Book "Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition"
+2. Problem 2 from "Introduction to Computational Thinking and Data Science"
+#### Day 3
+1. Read Ch 19, 20, 21, and 22 from Book "Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition"
+2. Problem 3 from "Introduction to Computational Thinking and Data Science"
+#### Day 4
+1. Read Ch 23 and 24 from Book "Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition"
+2. Problem 4 from "Introduction to Computational Thinking and Data Science"
+#### Day 5
+1. Read Ch 1 and 2 from Book "Python for Data Analysis"
+2. Problem 5 from "Introduction to Computational Thinking and Data Science"
+3. Solve Hw 0 from "CS109 2014"
+#### Day 6 and 7
+1. Finish this week stuff if you left with any
+2. Solve HW 1 from "CS109 2014"
+
+### Week 3
+#### Day 1
+1. Read Ch 3 from Book "Python for Data Analysis"
+1. Solve HW 1 from "CS109 2013"
+#### Day 2
+1. Read Ch 4 from Book "Python for Data Analysis"
+2 .Solve HW 2 from "CS109 2014"
+#### Day 3
+1. Read Ch 5 from Book "Python for Data Analysis"
+2. Solve HW 2 from "CS109 2013"
+#### Day 4
+1. Read Ch 6 and upto 7.2 from Book "Python for Data Analysis"
+2 .Solve HW 3 from "CS109 2014"
+#### Day 5
+1. Read upto Ch 8 from Book "Python for Data Analysis"
+2 .Solve HW 3 from "CS109 2013"
+#### Day 6 and 7
+1. Finish this week stuff if you left with any
+2 .Solve HW 4 from "CS109 2014"
+
+### Week 4
+#### Day 1
+1. Read upto Ch 9.1 from Book "Python for Data Analysis"
+2 .Solve HW 4 from "CS109 2013"
+#### Day 2
+1. Read upto Ch 9 from Book "Python for Data Analysis"
+2 .Solve HW 5 from "CS109 2014"
+#### Day 3
+1. Read Upto Ch 10 from Book "Python for Data Analysis"
+2 .Solve HW 5 from "CS109 2013"
+#### Day 4
+1. Read Upto Ch 11.4 from Book "Python for Data Analysis"
+2. Project on Recommender System
+#### Day 5
+1. Read Upto Ch 11 from Book ""Python for Data Analysis"
+2. Project on Recommender System
+#### Day 6 and 7
+1. Finish this week stuff if you left with any
+
+### Week 5
+#### Day 1
+1. Read Upto Ch 13 from Book "Python for Data Analysis"
+#### Day 2
+1. Read Ch 14 from Book "Python for Data Analysis"
+#### Day 3
+1. Read App. A from Book "Python for Data Analysis"
+#### Day 4
+1. Read App. B from Book "Python for Data Analysis"
+#### Day 5
+#### Day 6 and 7
