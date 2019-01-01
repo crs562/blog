@@ -73,33 +73,33 @@ https://www.amazon.com/exec/obidos/ASIN/0262529629/ref=nosim/mitopencourse-20?li
 ### Week 3
 #### Day 1
 1. Read Ch 3 from Book "Python for Data Analysis"
-1. Solve HW 1 from "CS109 2013"
+2. Solve HW 1 from "CS109 2013"
 #### Day 2
 1. Read Ch 4 from Book "Python for Data Analysis"
-2 .Solve HW 2 from "CS109 2014"
+2. Solve HW 2 from "CS109 2014"
 #### Day 3
 1. Read Ch 5 from Book "Python for Data Analysis"
 2. Solve HW 2 from "CS109 2013"
 #### Day 4
 1. Read Ch 6 and upto 7.2 from Book "Python for Data Analysis"
-2 .Solve HW 3 from "CS109 2014"
+2. Solve HW 3 from "CS109 2014"
 #### Day 5
 1. Read upto Ch 8 from Book "Python for Data Analysis"
-2 .Solve HW 3 from "CS109 2013"
+2. Solve HW 3 from "CS109 2013"
 #### Day 6 and 7
 1. Finish this week stuff if you left with any
-2 .Solve HW 4 from "CS109 2014"
+2. Solve HW 4 from "CS109 2014"
 
 ### Week 4
 #### Day 1
 1. Read upto Ch 9.1 from Book "Python for Data Analysis"
-2 .Solve HW 4 from "CS109 2013"
+2. Solve HW 4 from "CS109 2013"
 #### Day 2
 1. Read upto Ch 9 from Book "Python for Data Analysis"
-2 .Solve HW 5 from "CS109 2014"
+2. Solve HW 5 from "CS109 2014"
 #### Day 3
 1. Read Upto Ch 10 from Book "Python for Data Analysis"
-2 .Solve HW 5 from "CS109 2013"
+2. Solve HW 5 from "CS109 2013"
 #### Day 4
 1. Read Upto Ch 11.4 from Book "Python for Data Analysis"
 2. Project on Recommender System
