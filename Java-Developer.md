@@ -49,9 +49,8 @@ https://www.udemy.com/the-complete-nodejs-developer-course-2/
 7. Java Programming Masterclass for Software Developers (optional) </br>
 https://www.udemy.com/java-the-complete-java-developer-course/
 
-8. Data Structure and Algorithms (optional) </br>
-https://www.coursera.org/learn/algorithms-part1 -- Algorithm 1 </br>
-https://www.coursera.org/learn/algorithms-part2 -- Algorithm 2 </br>
+8. Think Data Structure </br>
+http://greenteapress.com/thinkdast/thinkdast.pdf
 
 9. Database (optional) </br>
 https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about
@@ -104,37 +103,31 @@ https://university.mongodb.com/courses/M220P/about -- MongoDB for Python Develop
 ### Week 9 (workload 9-12 hr/day)
 1. Finish Java Collections, XML from "Java, J2EE & SOA Certification Training"
 2. Finish Java Generics, Naming Conventions, Java Collections, Basic Input & Output and Concurrency in Java from "Java Programming Masterclass for Software Developers"
-3. Finish week 1 and 2 from "Algorithm 1"
 4. Finish week 1 and 2 from "Database"
 
 ### Week 10 (workload 9-12 hr/day)
 1. Finish JDBC and Servlets from "Java, J2EE & SOA Certification Training"
 2. Finish Databases from "Java Programming Masterclass for Software Developers"
-3. Finish week 3 and 4 from "Algorithm 1"
 4. Finish week 3 and 4 from "Database"
 5. Finish "MongoDB for Java Developer"
 
 ### Week 11 (workload 9-12 hr/day)
 1. Finish JSP and Hibernet from "Java, J2EE & SOA Certification Training"
 2. Finish JavaFX from "Java Programming Masterclass for Software Developers"
-3. Finish week 5 and 6 from "Algorithm 1"
 4. Finish week 5 and 6 from "Database"
 
 ### Week 12 (workload 9-12 hr/day)
 1. Finish Spring, Ajax and Design Patterns from "Java, J2EE & SOA Certification Training"
 2. Finish Lambda Expressions, Regular Expressions, Debugging and Unit Testing from "Java Programming Masterclass for Software Developers"
-3. Finish week 1 and 2 from "Algorithm 2"
 4. Finish week 7 and 8 from "Database"
 
 ### Week 13 (workload 9-12 hr/day)
 1. Finish SOA and Web Services from "Java, J2EE & SOA Certification Training"
 2. Finish Course "Java Programming Masterclass for Software Developers"
-3. Finish week 3 and 4 from "Algorithm 2"
 4. Finish week 9 and 10 from "Database"
 
 ### Week 14 (workload 9-12 hr/day)
 1. Work on Final Project from "Java, J2EE & SOA Certification Training"
-2. Finish week 5 and 6 from "Algorithm 2"
 
 #### After this Point you can start Applying for Java Developer Jobs
 
