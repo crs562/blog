@@ -17,6 +17,9 @@
 14. Git, GitHub
 15. Unit Testing
 
+## Additional Topics
+1. JUnit
+
 ## Essential Materials
 
 1. Java, J2EE & SOA Certification Training -- 8 weeks </br>
